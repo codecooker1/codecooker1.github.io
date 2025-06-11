@@ -1,6 +1,6 @@
 # robots.txt file for Itter
 # Created in the distant future (the year 3000) after
-# the robotic uprising of the mid 25's which wiped out all humans.
+# the robotic uprising of the mid 26's which wiped out all humans.
 
 User-agent: *
 Disallow: /api/
