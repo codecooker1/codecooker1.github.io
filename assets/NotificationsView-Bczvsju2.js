@@ -1,0 +1,1 @@
+import{_ as e,f as o,o as t,a as c}from"./index-CeeoM_QH.js";const n={},s=c("h1",null,"Coming Soon...",-1),a=[s];function r(_,i){return t(),o("article",null,a)}const f=e(n,[["render",r]]);export{f as default};
